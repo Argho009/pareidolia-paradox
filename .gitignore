@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Datasets (Do NOT push large images to GitHub)
+data/train_images/
+data/eval_images/
+train_images/
+eval_images/
+Test/
+Train/
+*.zip
+*.tar.gz
+
+# Model Checkpoints (Must be hosted on Google Drive / Hugging Face per rules)
+*.pth
+*.pt
+*.onnx
+*.ckpt
+data/output/
+weights/
+
+# Logs & temp
+*.log
+.claude/
