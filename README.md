@@ -1,7 +1,15 @@
 # 🌕 The Pareidolia Paradox — Lunar Feature Classification
 
-> Official Solution Repository for **The Pareidolia Paradox** by IEEE SIES GST.  
-> Classifying lunar surface features into **Crater (Depth, Label 0)** vs. **Mound (Rise, Label 1)** from orbital imagery under varying solar illumination.
+> Official Solution Repository for **The Pareidolia Paradox** organized by **IEEE SIES GST**.  
+> Classifying lunar surface relief into **Crater (Depth, Label 0)** vs. **Mound (Rise, Label 1)** from orbital imagery under varying solar illumination.
+
+<p align="center">
+  <img src="pareidolia_demo.gif" width="620" alt="Solar Azimuth Normalization Demo" />
+</p>
+
+<p align="center">
+  <img src="linkedin_post_asset.png" width="850" alt="Technical Architecture Showcase" />
+</p>
 
 ---
 
